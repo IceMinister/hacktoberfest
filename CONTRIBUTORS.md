@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kushal Aswani](https://github.com/IceMinister)
+- Place: Mumbai, India
+- Bio: Pursuing Masters
+- Github: [IceMinister](https://github.com/IceMinister)
+
